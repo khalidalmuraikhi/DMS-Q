@@ -21,6 +21,6 @@ The project uses Rethink
 
 you can use reQl pro to read the database info if needed
 
-##Disclaimer
+## Disclaimer
 
 The project is still on the earliest stages and some of the features has not develop due to time constraint.  
