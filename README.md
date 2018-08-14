@@ -3,7 +3,7 @@
 
 Is a Document management system that focus on real time collaboration using between Instructor to Instructor and Instructor to Students while maintaining high level of security. 
 
-The project uses Rethink 
+The project uses The 3REE Stack: React + Redux + RethinkDB + Express.js
 
 ## Setup
 
