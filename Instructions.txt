@@ -1,0 +1,8 @@
+1- To run open capstone database and lunch rethinkdb.exe
+2- open the capstone-master folder in visual code
+3- npm install
+4- npm run server
+5- npm run serverEmail
+6- npm start
+
+you can use reQl pro to read the database info if needed
